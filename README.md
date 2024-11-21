@@ -83,6 +83,9 @@ api_panel/
 - Admin authentication required for management
 - Password hashing implemented for security
 
+## Screenshot
+<img src="https://raw.githubusercontent.com/luvbib/php-apikey-management/refs/heads/main/api.png">
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
